@@ -364,9 +364,9 @@ P0190,伊林,米,zh,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,NULL,NULL,http
 P0190,Ильин,Михаил,ru,male,NULL,NULL,NULL,NULL,1895,1953,NULL,NULL,,NULL,NULL,http://worldcat.org/identities/viaf-97149066624865602270/,,,2017-12-19,MG,2017-12-23,MG
 P0191,Li,Qian,en,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
 P0191,李,干,zh,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
-P0192,He,Zhaowu,en,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
-P0192,何,兆武,zh,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
-P0193,Tang,Shaojie,en,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
-P0193,唐,少杰,zh,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
+P0192,He,Zhaowu,en,male,,,,,1921,,NULL,NULL,PL0002,NULL,,https://baike.baidu.com/item/%E4%BD%95%E5%85%86%E6%AD%A6,,,2017-12-27,MG,2017-12-29,MG
+P0192,何,兆武,zh,male,,,,,1921,,NULL,NULL,PL0002,NULL,,https://baike.baidu.com/item/%E4%BD%95%E5%85%86%E6%AD%A6,,,2017-12-27,MG,2017-12-29,MG
+P0193,Tang,Shaojie,en,male,,,,,1959,,NULL,NULL,PL0011,NULL,,https://baike.baidu.com/item/%E5%94%90%E5%B0%91%E6%9D%B0,,,2017-12-27,MG,2017-12-29,MG
+P0193,唐,少杰,zh,male,,,,,1959,,NULL,NULL,PL0011,NULL,,https://baike.baidu.com/item/%E5%94%90%E5%B0%91%E6%9D%B0,,,2017-12-27,MG,2017-12-29,MG
 P0194,Chi,Zehou,en,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
 P0194,迟,泽厚,zh,,,,,,,,,,,,,,,,2017-12-27,MG,2017-12-27,MG
